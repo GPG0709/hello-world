@@ -10,4 +10,4 @@
 
 This is an example of a GitHub repository.
 
-Hello, first time here.
+Hello, first time here!
